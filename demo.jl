@@ -8,9 +8,6 @@ print("Hello Github")
 using Agents
 # 3 things
   
-#NEW
-#Welcome to the Github
-
 #Agents!
 @agent Person GridAgent{2} begin
     health ::Int64 # 0 susceptible, 1 infected
