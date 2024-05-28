@@ -4,10 +4,14 @@ using Pkg
 Pkg.activate(".")
 
 #Hello
+print("Hello Github")
 using Agents
 # 3 things
+  
+#NEW
+#Welcome to the Github
 
-#Agents
+#Agents!
 @agent Person GridAgent{2} begin
     health ::Int64 # 0 susceptible, 1 infected
     illness_duration:: Int64 # how long has the agent been ill
