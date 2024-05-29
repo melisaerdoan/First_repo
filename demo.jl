@@ -39,6 +39,7 @@ function initialize(;
     sick_person.health = 1
     return model
 end   
+# These are comments: 
 #model = initialize(;susceptibility = 0.1, illness_duration = 5)
 model = initialize() # without giving any input, it works because default values defined in the function
 #model.susceptibility 
