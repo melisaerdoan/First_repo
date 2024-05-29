@@ -17,7 +17,7 @@ print("This is a chnage in the working branch")
 end
 
 function initialize(;
-    susceptibility = 0.3, 
+    susceptibility = 0.4, 
     illness_duration = 10
     grid_dimensions= (20,20),
     total_agents= 40)
