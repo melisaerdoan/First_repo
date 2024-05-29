@@ -1,5 +1,6 @@
 # This is ABM Video 5 
 # Please continue writing your code the next videos (video ABM 6 and ABM 7)
+# This is FETCH example
 using Pkg
 Pkg.activate(".")
 
